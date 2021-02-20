@@ -18,7 +18,7 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
     - name: Clean
-      run: dotnet clean ./ProjDir/ProjName.sln --configuration Release && dotnet nuget locals all --clear
+      run: dotnet clean ./TestProject.sln --configuration Release && dotnet nuget locals all --clear
     - name: Build
       run: dotnet build --no-restore
     - name: Test
@@ -35,7 +35,7 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
     - name: Clean
-      run: dotnet clean ./ProjDir/ProjName.sln --configuration Release && dotnet nuget locals all --clear
+      run: dotnet clean ./TestProject.sln --configuration Release && dotnet nuget locals all --clear
     - name: Build
       run: dotnet build --no-restore
     - name: Test
