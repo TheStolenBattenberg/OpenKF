@@ -1,0 +1,98 @@
+Dagger
+Short Sword
+Knights' Sword
+Morning Star
+Battle Hammer
+Bastard Sword
+Crescent Axe
+Thedek's Blade
+Shiden
+Spider
+Frostburn
+Seath's Sword
+Moonlight Sword
+Dark Slayer
+Bow
+Arbalest
+Iron Mask
+Knights' Helmet
+Commanders' Helmet
+Blood Crown
+Lightning Helmet
+Seath's Helmet
+Iron Plate
+Knights' Plate
+Ice Cuirass
+Dark Cuirass
+Seath's Cuirass
+Leather Shield
+Commanders' Shield
+Moon Guard
+Crystal Guard
+Skull Shield
+Seath's Shield
+Iron Gauntlets
+Stone Gauntlets
+Silver Vambrace
+Great Demon's Gauntlets
+Seath's Gauntlets
+Iron Sabatons
+Padded Chausses
+Silver Greaves
+Death Walkers
+Seath's Greaves
+Scorpion Bracelet
+Seath's Tear
+Seath's Bracelet
+Earthen Ring
+Cyclop's Collar
+Amulet Of Mist
+Lightwave Ring
+Pirates' Map
+Miners' Map
+Necron's Map
+Blood Stone
+Moon Stone
+Verdite
+Earth Herb
+Antidote
+Dragon Crystal
+Blue Potion
+Pink Potion
+Green Potion
+Gold Potion
+Crystal Flask
+Figure of Seath
+Phantom Rod
+Truth Glass
+Seath's Plume
+Demons' Pick
+Harvine's Flute
+Ground Bell
+Fire Crystal
+Water Crystal
+Earth Crystal
+Wind Crystal
+Light Crystal
+Dark Crystal
+Crystal
+Crystal Shard
+Elves Key
+Pirates' Key
+Skull Key
+Jail Key
+Rhombus Key
+Harvine's Key
+Dragon Stone
+Magicians' Key
+Silver Key
+Gold Key
+Shrine Key
+Moon Gate
+Star Gate
+Sun Gate
+Moon Key
+Star Key
+Sun Key
+Arrow
+Elves Bolt

@@ -1,0 +1,3 @@
+///GameStateGet();
+
+return conMain.gameState;

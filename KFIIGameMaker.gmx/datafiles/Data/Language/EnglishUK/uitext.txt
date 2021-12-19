@@ -1,0 +1,5 @@
+New Game
+Load Game
+Configuration
+Quit
+Inventory

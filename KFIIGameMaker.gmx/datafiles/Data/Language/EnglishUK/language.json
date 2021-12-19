@@ -1,0 +1,7 @@
+{
+   "name":"English",
+   "fontFile":"Seshat.ttf",
+   "fontSize":24,
+   "fontFirstChar": 32,
+   "fontLastChar": 127
+}
