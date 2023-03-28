@@ -9,12 +9,12 @@ enum RenderAPI {
 var config = ds_map_create();
 
 // Window
-config[? "windowWidth"]      = 960;
-config[? "windowHeight"]     = 540;
+config[? "windowWidth"]      = 1600;
+config[? "windowHeight"]     = 900;
 config[? "windowFullscreen"] = false;
 
-config[? "renderWidth"]      = 640;
-config[? "renderHeight"]     = 480;
+config[? "renderWidth"]      = 1600;
+config[? "renderHeight"]     = 900;
 
 config[? "renderAPI"]        = RenderAPI.DirectX9;
 

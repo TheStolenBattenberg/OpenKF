@@ -8,7 +8,7 @@ struct MSMHeader
 	uint magicID;	//MSMf
 	uint version;	//1
 	uint flags;		//0x00
-	uint numMesh;	//0 - INT_MAX
+	uint numMesh;	//0 - UINT_MAX
 };
 
 struct MSMVertex 	//48 byte stride
